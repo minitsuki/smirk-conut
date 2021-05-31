@@ -1,0 +1,3 @@
+if (args.includes("smirks").toLowerCase()){
+    let smirkCount = smirkCount + 1;
+};
